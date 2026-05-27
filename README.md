@@ -46,26 +46,6 @@ python -m knowledge_agent
 
 Type questions at the `You>` prompt. Use `exit` or `quit` to leave.
 
-## Example questions
-
-**SQL only**
-
-- Which products were most ordered last month?
-- Show me the top 5 customers by total spend, with their cities.
-- Which customers from Mumbai have unpaid orders?
-
-**SQL + Web**
-
-- Pick our best-selling product — what are recent reviews or news about similar products online?
-
-**Web only**
-
-- What are the latest changes to GSTR-3B filing rules?
-
-**Memory only** (ask after a prior turn)
-
-- What did I ask you earlier about top customers?
-- Can you remind me what we discussed about products?
 
 ## Project layout
 
