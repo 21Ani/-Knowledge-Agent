@@ -76,4 +76,4 @@ data/              # Created at runtime (gitignored)
 | `CHROMA_PATH` | Vector store path (default: `data/chroma`) |
 | `MAX_AGENT_STEPS` | Max tool loop iterations (default: 8) |
 
-See also: [SCHEMA.md](SCHEMA.md), [ARCHITECTURE.md](ARCHITECTURE.md), [DESIGN.md](DESIGN.md).
+
